@@ -11,3 +11,4 @@ Phonepe Pulse is built using the following technologies:
 •	mysql-connector-python - Library used for connecting to MySQL database.
 •	Streamlit - Library used for building the user interface.
 •	Plotly - Library used for data visualization.
+
