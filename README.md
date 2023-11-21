@@ -18,8 +18,6 @@ To get started with Phonepe Pulse, follow the steps below:
 Execute the “Phone_pe_pulse.py” file to clone the data.
 
 2.	Install the required libraries using the pip install command.
-   
-# Required libraries for the program
 pandas, git,json, os, mysql.connector, streamlit, streamlit_lottie,plotly.express,streamlit_option_menu,PIL,plotly.subplots,sqlalchemy,git.repo.base.
 
 3.	Execute the “Phone_pe_pulse.py” to transform the cloned data into a suitable format and perform necessary cleaning and pre-processing, and insert the transformed data into a MySQL database for efficient storage and retrieval.
