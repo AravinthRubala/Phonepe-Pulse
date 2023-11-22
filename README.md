@@ -3,7 +3,7 @@
 # Description:
 Phonepe Pulse Project is a user-friendly tool for data visualization and exploration in the Fintech domain. It is built using Python, Pandas, MySQL, mysql-connector-python, Streamlit, and Plotly technologies. The tool provides users with an easy-to-use interface to explore and visualize data related to financial transactions carried out by user in different states and districts of India.
 
-Want to see demo video of my project? - Click here
+Linked in Link - https://www.linkedin.com/feed/update/urn:li:activity:7133139223221571585/?originTrackingId=dZuCxSiDRjOf1opSBVtOVQ%3D%3D
 
 # Technologies:
 Phonepe Pulse is built using the following technologies:
